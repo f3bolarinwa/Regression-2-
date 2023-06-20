@@ -1,4 +1,4 @@
-# This reposritory contains the following:
+# This repository contains the following:
 
 project description
 
