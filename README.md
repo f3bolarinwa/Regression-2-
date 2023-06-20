@@ -2,7 +2,7 @@
 
 project description
 
-dataset (used_cars.csv)
+dataset (used_cars.csv). please note dataset available for open-source data science competition at kaggle.com
 
 summary slides
 
